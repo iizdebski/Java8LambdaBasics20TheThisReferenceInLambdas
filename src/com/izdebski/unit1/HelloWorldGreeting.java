@@ -1,4 +1,6 @@
-package com.izdebski;
+package com.izdebski.unit1;
+
+import com.izdebski.unit1.Greeting;
 
 public class HelloWorldGreeting implements Greeting {
 

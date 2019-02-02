@@ -1,4 +1,6 @@
-package com.izdebski;
+package com.izdebski.unit1;
+
+import com.izdebski.unit1.Person;
 
 import java.util.Arrays;
 import java.util.List;

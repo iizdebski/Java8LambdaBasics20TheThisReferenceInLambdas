@@ -1,4 +1,4 @@
-package com.izdebski;
+package com.izdebski.unit1;
 
 @FunctionalInterface
 public interface Greeting {
