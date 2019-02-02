@@ -13,5 +13,11 @@ public class Unit1Exercise {
                 new Person("Charlotte", "Bronte", 45),
                 new Person("Matthew", "Arnold", 39)
         );
+
+        // Step 1: Sort list by last name
+
+        // Step 2: Create a method that prints all elements in the list
+
+        // Step 3: Create a method that prints all people that have last name beginning with C
     }
 }
